@@ -1,17 +1,37 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+<!--
+  Title: Dicee App
+  Description: iOS App of dicee app, made using SWIFT
+  Author: Adrien CHABAUD
+ -->
+ 
+ # Slot Machine ![iOS Badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Swift Badge](https://img.shields.io/badge/Swift%20Version-5-orange) 
 
-# Dicee
+# Dice Roll
 
-## Our Goal
+This app has been made as part of the **iOS & Swift - The Complete iOS App Development Bootcamp** on Udemy from **The App Brewery**
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
+## Table of contents
+* [Goal behind](#goal-behind)
+* [General Info](#general-info)
+* [Learning](#learning-tool)
+* [Technologies](#technologies)
 
-## What you will create
+## Goal Behind
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+The objective behind this app was to use core concepts that are the foundation of most of the apps to built.
+
+## General Info
+
+This app is a Las Vegas dice app. You can make the die roll at the press of a button.
+
+<p align="center">
+  <img src="/images/screenshot_1.png" width=300 hspace=20><img src="/images/screenshot_2.png" width=300 hspace=20>
+</p>
 
 
-## What you will learn
+## Learning Tool
+
+As a learning tool, the conception of this app allowed me to do/learn the following:
 
 * How to clone an existing Xcode project from GitHub.
 * Create an app with behaviour and functionality.
@@ -23,9 +43,12 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 * Test and debug your app with the Xcode console.
 * Learn about randomisation and how to generate random numbers in Swift.
 
+## Technologies
 
+This project uses:
+* *Xcode: 13.4.1*
+* *Swift: 5.6.1*
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+<p align="center">
+  <img src="Documentation/readme-end-banner.png">
+</p>
